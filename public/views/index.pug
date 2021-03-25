@@ -1,0 +1,18 @@
+html
+    head
+        link(rel='shortcut icon' type='image/jpg' href=favicon)
+        link(rel='stylesheet' href=css)
+        title Végtelen motiváció! 
+    body
+
+        div(id='navigation')
+            div(class='nav')
+                a(href='/about' id='about')='?'
+            div(class='nav')
+                img(src=download id='save')
+
+            canvas(id='canvas')
+        img(src=image_src id='bg')
+        h2(id='quote')=quote
+
+        script(src=canvas_script)
