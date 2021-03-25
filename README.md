@@ -1,2 +1,2 @@
-# motivacios_oldal
+# Motivációs weboldal
 Végtelen motiváció!
