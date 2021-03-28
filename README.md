@@ -1,2 +1,0 @@
-# Motivációs weboldal
-Végtelen motiváció!
