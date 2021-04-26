@@ -1,4 +1,8 @@
 # Motivációs oldal!
+![kedv](https://user-images.githubusercontent.com/80597697/116042249-79805900-a66e-11eb-965d-ed7dfae57457.png)
+![matematikus](https://user-images.githubusercontent.com/80597697/116042278-82712a80-a66e-11eb-8ef3-05ef32826505.png)
+
+*Az alkalmazás által generált motiváció.*
 
 ## Végtelen motiváció!
 
