@@ -17,3 +17,10 @@ Az oldal minden betöltésénél új képet kapunk, az alkalmazás a szerverolda
 * 7 motiváló kép
 * [pug](https://pugjs.org/api/getting-started.html)-fájlok
 * és kliensoldali JavaScript, ami lehetővé teszi, hogy a motivációt képként le is tölthessük. (HTML5 canvas-ra "rendereli")
+
+## Hogy lehet kipróbálni?
+Telepítsük a NodeJS-t! (pl.: `sudo pacman -S nodejs`)
+1. `git clone https://github.com/ShrekhavingabadDay/motivacios_oldal`
+2. `cd motivacios_oldal`
+3. `npm start`
+4. A böngészőben látogassuk meg a *localhost:3000* url-t!
